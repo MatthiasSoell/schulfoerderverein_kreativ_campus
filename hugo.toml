@@ -1,0 +1,19 @@
+cat > hugo.toml << 'EOF'
+baseURL = "https://matthiassoell.github.io/schulfoerderverein_kreativ_campus/"
+languageCode = "de-DE"
+title = "Schulförderverein Kreativ Campus"
+
+theme = ["github.com/adityatelange/hugo-PaperMod"]
+
+[module]
+[[module.imports]]
+path = "github.com/adityatelange/hugo-PaperMod"
+
+[params]
+defaultTheme = "auto"
+ShowReadingTime = false
+ShowShareButtons = false
+ShowPostNavLinks = false
+ShowBreadCrumbs = false
+ShowCodeCopyButtons = false
+EOF
