@@ -1,4 +1,3 @@
-cat > hugo.toml << 'EOF'
 baseURL = "https://matthiassoell.github.io/schulfoerderverein_kreativ_campus/"
 languageCode = "de-DE"
 title = "Schulförderverein Kreativ Campus"
@@ -16,4 +15,3 @@ ShowShareButtons = false
 ShowPostNavLinks = false
 ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
-EOF
