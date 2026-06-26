@@ -1,0 +1,476 @@
+.header {
+  margin-bottom: 1.25rem;
+}
+
+.list {
+  background: var(--theme);
+}
+
+.header-nav {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 0.72rem;
+  max-width: calc(var(--main-width) + var(--gap) * 2);
+  margin: 0 auto;
+  padding: 0.875rem var(--gap) 0;
+  line-height: normal;
+}
+
+.header-top-row {
+  display: grid;
+  grid-template-columns: 18px auto 80px;
+  align-items: center;
+  gap: 1rem;
+}
+
+.header-top-left {
+  justify-self: start;
+}
+
+.header-association-name {
+  display: block;
+  width: 100%;
+  min-width: 0;
+  font-size: 1.54rem;
+  font-weight: 600;
+  line-height: 1.2;
+  text-align: center;
+  justify-self: stretch;
+  white-space: nowrap;
+}
+
+.post-title {
+  font-size: 1.4rem;
+  font-weight: 600;
+  color: #2f2f2f;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+}
+
+.md-content h2,
+.md-content h3,
+.md-content h4,
+.md-content h5,
+.md-content h6 {
+  color: #2f2f2f;
+}
+
+.md-content h2 {
+  font-size: 1.2rem;
+}
+
+.md-content h3 {
+  font-size: 1.1rem;
+}
+
+.md-content h4 {
+  font-size: 1rem;
+}
+
+.md-content h5 {
+  font-size: 0.95rem;
+}
+
+.md-content h6 {
+  font-size: 0.9rem;
+}
+
+.post-header {
+  margin-top: 0.75rem;
+}
+
+.header-association-logo {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  justify-self: end;
+  width: 72px;
+  line-height: 1;
+}
+
+.header-association-logo img,
+.logo a img {
+  display: block;
+  width: 72px;
+  height: auto;
+  max-width: none;
+  object-fit: contain;
+}
+
+.header-menu {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 0 0 1.35rem;
+  column-gap: 1.5rem;
+  row-gap: 0.5rem;
+}
+
+.header-menu::before {
+  content: "";
+  display: block;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-50%);
+  width: 90%;
+  height: 1.8px;
+  border-radius: 999px;
+
+  background: linear-gradient(
+    90deg,
+    rgba(140, 73, 255, 0) 0%,
+    rgba(140, 73, 255, 0.40) 6%,
+    #8C49FF 15%,
+    #27C6CF 34%,
+    #58BC4E 53%,
+    #EA5A54 72%,
+    #EA5A54 82%,
+    #F2C74B 90%,
+    rgba(242, 199, 75, 0.40) 95%,
+    rgba(242, 199, 75, 0) 100%
+  );
+
+  opacity: 0.75;
+}
+
+.list .post-entry,
+.list .first-entry {
+  margin: 0 0 var(--content-gap);
+  padding: 0;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+  transform: none;
+}
+
+.list .post-entry:hover,
+.list .post-entry:focus-within,
+.list .searchResults li:hover,
+.list .searchResults li:focus-within {
+  transform: none;
+  border-color: var(--border);
+}
+
+.list .entry-header h2,
+.list .first-entry .entry-header h1,
+.list .first-entry .entry-header h2 {
+  font-size: 1.4rem;
+  line-height: 1.2;
+}
+
+.list .entry-content {
+  margin: 0.5rem 0;
+  color: var(--content);
+  font-size: 1rem;
+  line-height: 1.6;
+  display: block;
+  overflow: visible;
+  -webkit-line-clamp: unset;
+}
+
+.list .entry-footer,
+.list .entry-hint {
+  color: var(--secondary);
+  font-size: 14px;
+}
+
+.list .page-header h1 {
+  font-size: 1.75rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.header + .main {
+  padding-top: 0;
+}
+
+.main {
+  min-height: calc((100vh - var(--header-height) - var(--footer-height)) * 0.75);
+}
+
+.post-single .post-content {
+  margin-bottom: 6px;
+}
+
+.post-single .post-footer {
+  margin-top: 0;
+}
+
+.main:has(.post-single) {
+  padding-bottom: 0;
+}
+
+.home-page .post-content {
+  margin-top: 0;
+}
+
+.home-hero {
+  margin-bottom: 2rem;
+}
+
+.home-hero-title {
+  margin: 0;
+  line-height: 1.15;
+}
+
+.md-content .image-caption {
+  margin-top: 0.4rem;
+  margin-bottom: 1.1rem;
+  font-size: 0.90rem;
+  line-height: 1.45;
+  text-align: center;
+  color: #6b7280;
+}
+
+.md-content img[alt="Vorstand"] {
+  width: min(80%, 900px);
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+/* Active menu item: subtle underline only, no color/background/border change. */
+.menu .active,
+html:has(link[rel="canonical"][href$="/schulfoerderverein_kreativ_campus/"]) #menu a[href$="/schulfoerderverein_kreativ_campus/"] span,
+html:has(link[rel="canonical"][href$="/ueber_uns/"]) #menu a[href$="/ueber_uns/"] span,
+html:has(link[rel="canonical"][href$="/mitglied_werden/"]) #menu a[href$="/mitglied_werden/"] span,
+html:has(link[rel="canonical"][href$="/dokumente/"]) #menu a[href$="/dokumente/"] span,
+html:has(link[rel="canonical"][href$="/kontakt/"]) #menu a[href$="/kontakt/"] span {
+  font-weight: inherit;
+  text-decoration: underline;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.34rem;
+}
+
+/* Content links: calmer dark gray, underline only on interaction. */
+.md-content a:not(.anchor) {
+  color: #3f628f;
+  text-decoration: none;
+  transition: text-decoration-color 0.18s ease;
+}
+
+.md-content a:not(.anchor):visited {
+  color: #3f628f;
+}
+
+.md-content a:not(.anchor):hover,
+.md-content a:not(.anchor):focus-visible {
+  color: #3f628f;
+  text-decoration: underline;
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 1.2px;
+  text-underline-offset: 0.26rem;
+}
+
+[data-theme="dark"] .post-title,
+[data-theme="dark"] .md-content h1,
+[data-theme="dark"] .md-content h2,
+[data-theme="dark"] .md-content h3,
+[data-theme="dark"] .md-content h4,
+[data-theme="dark"] .md-content h5,
+[data-theme="dark"] .md-content h6 {
+  color: var(--content);
+}
+
+@media (max-width: 900px) {
+  .header {
+    margin-bottom: 1.15rem;
+  }
+
+  .header-nav {
+    gap: 0.92rem;
+  }
+
+  .header-top-row {
+    gap: 1.25rem;
+  }
+
+  .header-association-name {
+    font-size: 1.35rem;
+  }
+
+  .post-title {
+    font-size: 1.52rem;
+  }
+
+  .header-association-logo img,
+  .logo a img {
+    height: 120px;
+  }
+}
+
+@media (max-width: 680px) {
+  .header {
+    margin-bottom: 1rem;
+  }
+
+  .header-nav {
+    gap: 0.78rem;
+    padding-top: 1rem;
+  }
+
+  .header-top-row {
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "logo"
+      "title"
+      "toggle";
+    gap: 0.75rem;
+  }
+
+  .header-top-left {
+    grid-area: toggle;
+    justify-self: center;
+  }
+
+  .header-association-name {
+    grid-area: title;
+    font-size: 1.2rem;
+    text-align: center;
+    white-space: nowrap;
+  }
+
+  .post-title {
+    font-size: 1.4rem;
+  }
+
+  .header-association-logo {
+    grid-area: logo;
+    justify-content: center;
+    justify-self: center;
+    width: 72px;
+  }
+
+  .header-association-logo img,
+  .logo a img {
+    height: 112px;
+  }
+
+  .header-menu {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 1.5rem;
+    row-gap: 0.625rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .header-association-name {
+    white-space: normal;
+    overflow-wrap: anywhere;
+  }
+
+  .md-content img[alt="Vorstand"] {
+    width: 100%;
+  }
+}
+
+.support-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.85rem;
+  margin: 1.6rem 0 0;
+}
+
+.support-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 10rem;
+  padding: 0.75rem 1.1rem;
+  border-radius: 999px;
+  color: #ffffff !important;
+  font-weight: 600;
+  line-height: 1.1;
+  text-decoration: none !important;
+  box-shadow: 0 0.18rem 0.55rem rgba(0, 0, 0, 0.14);
+  transition: transform 0.16s ease, box-shadow 0.16s ease, opacity 0.16s ease;
+}
+
+.support-button:hover,
+.support-button:focus-visible {
+  transform: translateY(-1px);
+  box-shadow: 0 0.28rem 0.75rem rgba(0, 0, 0, 0.18);
+  opacity: 0.96;
+}
+
+.support-button-engage {
+  background: linear-gradient(135deg, #8C49FF, #27C6CF);
+}
+
+.support-button-join {
+  background: linear-gradient(135deg, #27C6CF, #58BC4E);
+}
+
+.support-button-donate {
+  background: linear-gradient(135deg, #EA5A54, #F2C74B);
+}
+
+@media (max-width: 680px) {
+  .support-actions {
+    flex-direction: column;
+  }
+
+  .support-button {
+    width: 100%;
+  }
+}
+
+.donation-qr-box {
+  width: min(32%, 240px);
+  aspect-ratio: 1 / 1;
+  box-sizing: border-box;
+  margin: 2rem auto 1rem;
+  padding: 0;
+
+  background: #ffffff;
+  border: 2px solid transparent;
+  border-radius: 1rem;
+
+  background-image:
+    linear-gradient(#ffffff, #ffffff),
+    linear-gradient(
+      90deg,
+      #8C49FF,
+      #27C6CF,
+      #58BC4E,
+      #EA5A54,
+      #F2C74B
+    );
+
+  background-origin: border-box;
+  background-clip: padding-box, border-box;
+
+  box-shadow: 0 0.25rem 0.8rem rgba(0, 0, 0, 0.12);
+}
+
+.donation-qr-box img {
+  display: block;
+  width: calc(100% - 1.3rem);
+  height: calc(100% - 1.3rem);
+  margin: 0.65rem;
+  object-fit: contain;
+}
+
+.donation-qr-hint {
+  margin-top: 0.75rem;
+  text-align: center;
+  font-size: 0.95rem;
+  color: var(--secondary);
+}
+
+@media (max-width: 680px) {
+  .donation-qr-box {
+    width: min(75%, 260px);
+  }
+}

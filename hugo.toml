@@ -1,6 +1,6 @@
 baseURL = "https://matthiassoell.github.io/schulfoerderverein_kreativ_campus/"
 languageCode = "de-DE"
-title = "Schulförderverein Kreativ Campus"
+title = "Schulförderverein des KreativCampus Evershagen e.V."
 
 theme = ["github.com/adityatelange/hugo-PaperMod"]
 
@@ -15,3 +15,33 @@ ShowShareButtons = false
 ShowPostNavLinks = false
 ShowBreadCrumbs = false
 ShowCodeCopyButtons = false
+
+[[menu.main]]
+name = "Startseite"
+pageRef = "/"
+weight = 1
+
+[[menu.main]]
+name = "Über uns"
+pageRef = "/ueber_uns"
+weight = 2
+
+[[menu.main]]
+name = "Mitglied werden"
+pageRef = "/mitglied_werden"
+weight = 3
+
+[[menu.main]]
+name = "Spenden"
+pageRef = "/spenden"
+weight = 4
+
+[[menu.main]]
+name = "Kontakt"
+pageRef = "/kontakt"
+weight = 5
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.renderer]
+			unsafe = true
