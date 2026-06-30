@@ -7,7 +7,7 @@ Der Schulförderverein des KreativCampus Evershagen e.V. unterstützt die Bildun
 
 ![KreativCampus](images/kreativcampus_ki.jpg)
 
-<p class="image-caption">Visualisierung des KreativCampus Evershagen auf Grundlage eines Drohnenfotos · <br>Quelle: Drohnenfoto des Institut Lernen und Leben e.V. · Lizenz: Nicht frei verfügbar.</p>
+<p class="image-caption">Bild: Visualisierung des KreativCampus Evershagen auf Grundlage eines Drohnenfotos <br>(Bearbeitet mit ChatGPT) · Quelle: Drohnenfoto des Institut Lernen und Leben e.V. · <br>Lizenz: Nicht frei verfügbar.</p>
 
 Gemeinsam mit Eltern, Unterstützer:innen und Förder:innen möchten wir dazu beitragen, das Schulleben aktiv mitzugestalten und zusätzliche Projekte für die Schüler:innen zu ermöglichen.
 
@@ -19,7 +19,7 @@ Unsere Vorstandsmitglieder Ilka Gaide (1. Vorsitzende), Andrea Zarzinsky (2. Vor
 
 ![Vorstand](images/vorstand_comic.jpg)
 
-<p class="image-caption">Foto (von links nach rechts): Thomas Radloff, Ilka Gaide, Andrea Zarzinsky und Benita Krüger · <br>Quelle: Privatfoto · Lizenz: Nicht frei verfügbar; die Bildrechte liegen bei den abgebildeten Personen.</p>
+<p class="image-caption">Foto (von links nach rechts): Thomas Radloff, Ilka Gaide, Andrea Zarzinsky und Benita Krüger <br>(Bearbeitet mit ChatGPT)· Quelle: Privatfoto · Lizenz: Nicht frei verfügbar; die Bildrechte liegen bei den abgebildeten Personen.</p>
 
 
 
