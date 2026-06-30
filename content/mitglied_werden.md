@@ -15,8 +15,8 @@ Der Mindestmitgliedsbeitrag beträgt *25 Euro* pro Jahr.
 Selbstverständlich sind auch höhere freiwillige Beiträge willkommen.
 
 <div class="support-actions">
-  <a class="support-button support-button-join" href="../dokumente/Aufnahmeantrag_Satzung_Foerderverein_KreativCampus.pdf">
-    Mitglied werden
+  <a class="support-button support-button-join" href="../dokumente/Aufnahmeantrag_Satzung_Foerderverein_KreativCampus.pdf" target="_blank" rel="noopener noreferrer">
+    Aufnahmeformular ausfüllen
   </a>
 </div>
 

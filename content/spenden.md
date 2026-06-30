@@ -8,23 +8,11 @@ Ob auf dem **Sommerfest**, beim **Adventscafé**, bei **Schulprojekten** oder im
 
 ## Schnell und unkompliziert spenden
 
-Sie sind gerade auf einer Veranstaltung des Fördervereins und haben kein Bargeld dabei?
-
 <center>Scannen Sie den QR-Code mit Ihrer <b>Banking-App</b><br>und wählen Sie den Betrag, den Sie spenden möchten.</center>
 
 <div class="donation-qr-box">
   <img src="../images/girocode.png" alt="GiroCode für eine Spende an den Schulförderverein">
 </div>
-
-## Beispiele für Ihre Unterstützung
-
-☕ 2 € für Kaffee  
-🍰 5 € für Kaffee und Kuchen  
-🎨 10 € für ein Schulprojekt  
-🌟 25 € um etwas Besonders zu unterstützen  
-💚 50 € für eine großzügige Förderung  
-
-Natürlich können Sie auch jeden anderen Betrag spenden.
 
 ## Bankverbindung
 

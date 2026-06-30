@@ -3,17 +3,23 @@ title: "Schulförderverein des KreativCampus Evershagen e.V."
 displayTitle: "Gemeinsam Bildung, Kreativität und Gemeinschaft fördern."
 ---
 
-Der Schulförderverein des KreativCampus Evershagen e.V. unterstützt die Bildungs- und Erziehungsarbeit am <a href="https://ill-ev.de/schulstandorte/rostock/kreativcampus-evershagen/reformpaedagogik-trifft-architektur" target="_blank" rel="noopener noreferrer">KreativCampus Evershagen</a> in Rostock. Gemeinsam mit Eltern, Unterstützer:innen und Förder:innen möchten wir dazu beitragen, das Schulleben aktiv mitzugestalten und zusätzliche Projekte für die Schüler:innen zu ermöglichen.
+Der Schulförderverein des KreativCampus Evershagen e.V. unterstützt die Bildungs- und Erziehungsarbeit am <a href="https://ill-ev.de/schulstandorte/rostock/kreativcampus-evershagen/reformpaedagogik-trifft-architektur" target="_blank" rel="noopener noreferrer">KreativCampus Evershagen</a> in Rostock. 
+
+![KreativCampus](images/kreativcampus_ki.jpg)
+
+<p class="image-caption">Visualisierung des KreativCampus Evershagen auf Grundlage eines Drohnenfotos · <br>Quelle: Drohnenfoto des Institut Lernen und Leben e.V. · Lizenz: Nicht frei verfügbar.</p>
+
+Gemeinsam mit Eltern, Unterstützer:innen und Förder:innen möchten wir dazu beitragen, das Schulleben aktiv mitzugestalten und zusätzliche Projekte für die Schüler:innen zu ermöglichen.
 
 Unsere Arbeit lebt vom Engagement vieler Menschen. Ob durch aktive Unterstützung, eine Mitgliedschaft oder eine Spende – jede Hilfe trägt dazu bei, den Schulalltag unserer Kinder noch vielfältiger und lebendiger zu gestalten.
 
 ## Vorstand
 
-Unsere Vorstandsmitglieder ... (1. Vorsitzender), ... (2. Vorsitzende), ... und ... engagieren sich ehrenamtlich und freuen sich auf Ihre Anregungen und Fragen.
+Unsere Vorstandsmitglieder Ilka Gaide (1. Vorsitzende), Andrea Zarzinsky (2. Vorsitzende), Thomas Radloff (Beisitzer) und Benita Krüger (Kassenwartin) engagieren sich ehrenamtlich und freuen sich auf Ihre Anregungen und Fragen.
 
-![Vorstand](images/vorstand.jpg)
+![Vorstand](images/vorstand_comic.jpg)
 
-<p class="image-caption">Foto (von links nach rechts): ..., ..., ... und .... Quelle: Privatfoto · <br>Lizenz: Nicht frei verfügbar; die Bildrechte liegen bei den abgebildeten Personen.</p>
+<p class="image-caption">Foto (von links nach rechts): Thomas Radloff, Ilka Gaide, Andrea Zarzinsky und Benita Krüger · <br>Quelle: Privatfoto · Lizenz: Nicht frei verfügbar; die Bildrechte liegen bei den abgebildeten Personen.</p>
 
 
 
