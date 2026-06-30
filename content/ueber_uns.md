@@ -12,7 +12,7 @@ Viele **Projekte**, **Anschaffungen** oder **Veranstaltungen** lassen sich durch
 
 Ilka Gaide (1. Vorsitzende), Andrea Zarzinsky (2. Vorsitzende), Thomas Radloff (Beisitzer) und Benita Krüger (Kassenwartin) engagieren sich ehrenamtlich im Vorstand des Fördervereins und freuen sich auf Ihre Anregungen und Fragen.
 
-![Vorstand](../images/vorstand_foto.jpg)
+![Vorstand](../images/vorstand_foto.jpeg)
 
 <p class="image-caption">Foto (von links nach rechts): Thomas Radloff, Ilka Gaide, Andrea Zarzinsky und Benita Krüger · <br>Quelle: Privatfoto · Lizenz: Nicht frei verfügbar; die Bildrechte liegen bei den abgebildeten Personen.</p>
 
