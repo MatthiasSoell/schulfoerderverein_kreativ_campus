@@ -20,6 +20,10 @@ Selbstverständlich sind auch höhere freiwillige Beiträge willkommen.
   </a>
 </div>
 
+## Satzung
+
+Mit Ihrer Mitgliedschaft erkennen Sie die <a href="../dokumente/Satzung_Foerderverein_KreativCampus.pdf" target="_blank" rel="noopener noreferrer">Satzung (PDF)</a> des Schulfördervereins an. Darin sind die Ziele, Aufgaben und organisatorischen Grundlagen des Vereins festgelegt.
+
 ## Aktive Unterstützung
 
 Neben einer Mitgliedschaft freuen wir uns auch über aktive Unterstützung, beispielsweise bei schulischen Veranstaltungen und Projekten.

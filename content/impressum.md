@@ -21,7 +21,9 @@ Fax: 03212 1279652
 
 ## Vertretungsberechtigter Vorstand
 
-Der Verein wird gemäß § 26 BGB durch den 1. Vorsitzenden bzw. die 2. Vorsitzende vertreten.
+Der Verein wird gemäß § 26 BGB durch die 1. Vorsitzende Ilka Gaide bzw. die 2. Vorsitzende Andrea Zarzinsky vertreten.
+
+Dem Vorstand gehören außerdem Thomas Radloff (Beisitzer) und Benita Krüger (Kassenwartin) an.
 
 ---
 
