@@ -10,8 +10,8 @@ Sitz des Vereins:
 
 Der Schulförderverein ist erreichbar über:
 
-KreativCampus Evershagen
-Hans-Fallada-Str. 51-52
+KreativCampus Evershagen  
+Hans-Fallada-Str. 51-52  
 18069 Rostock
 
 Tel.: 0381 87303040
