@@ -10,12 +10,11 @@ Sitz des Vereins:
 
 Der Schulförderverein ist erreichbar über:
 
-Freie Grundschule Kinderkunstakademie am Wasserturm e.V.  
-Blücherstraße 42  
-18055 Rostock  
+KreativCampus Evershagen
+Hans-Fallada-Str. 51-52
+18069 Rostock
 
-Tel.: 0381 4904084  
-Fax: 03212 1279652  
+Tel.: 0381 87303040
 
 ---
 
