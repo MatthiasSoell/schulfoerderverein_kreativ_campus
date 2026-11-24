@@ -18,4 +18,17 @@
   </div>
   {{- end }}
 </article>
+
+{{- with site.GetPage "/aktivitaeten" }}
+  {{- $activities := . }}
+  {{- with first 3 .RegularPages }}
+  <section class="home-activities" aria-labelledby="home-activities-title">
+    <h2 id="home-activities-title">Aktivitäten</h2>
+    {{- range . }}
+    {{- partial "activity-card.html" (dict "page" . "nested" true) }}
+    {{- end }}
+    <p class="md-content"><a href="{{ $activities.RelPermalink }}">Alle Aktivitäten</a></p>
+  </section>
+  {{- end }}
+{{- end }}
 {{ end }}

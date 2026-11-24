@@ -1,3 +1,7 @@
+:root {
+  --content-link-color: #3f628f;
+}
+
 .header {
   margin-bottom: 1.25rem;
 }
@@ -158,6 +162,7 @@
 }
 
 .list .entry-header h2,
+.list .home-activities .entry-header h3,
 .list .first-entry .entry-header h1,
 .list .first-entry .entry-header h2 {
   font-size: 1.4rem;
@@ -210,6 +215,58 @@
   margin-top: 0;
 }
 
+.home-activities {
+  margin-block: var(--gap);
+}
+
+.home-activities > h2 {
+  margin-bottom: 2rem;
+  font-size: 1.2rem;
+}
+
+.activity-return {
+  margin-top: 1.25rem;
+}
+
+.activity-card {
+  display: flow-root;
+}
+
+.activity-card > .entry-cover {
+  float: inline-end;
+  width: clamp(3.5rem, 20%, 7rem);
+  aspect-ratio: 1;
+  margin: 0 0 0.5rem 0.85rem;
+}
+
+.activity-card > .entry-cover img {
+  height: 100%;
+  object-fit: contain;
+}
+
+.post-single > .entry-cover img {
+  max-width: 18rem;
+  height: auto;
+  margin-inline: auto;
+}
+
+.list .post-entry.activity-upcoming {
+  padding: 0.75rem 1rem;
+  border-radius: var(--radius);
+  background: color-mix(in srgb, var(--content-link-color) 22%, var(--entry));
+}
+
+.list .post-entry.activity-upcoming .entry-footer {
+  color: var(--content);
+}
+
+.post-entry .entry-link:focus-visible,
+.home-activities > .md-content a:focus-visible,
+.activity-return a:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 2px;
+}
+
 .home-hero {
   margin-bottom: 2rem;
 }
@@ -253,18 +310,18 @@ html:has(link[rel="canonical"][href$="/kontakt/"]) #menu a[href$="/kontakt/"] sp
 
 /* Content links: calmer dark gray, underline only on interaction. */
 .md-content a:not(.anchor) {
-  color: #3f628f;
+  color: var(--content-link-color);
   text-decoration: none;
   transition: text-decoration-color 0.18s ease;
 }
 
 .md-content a:not(.anchor):visited {
-  color: #3f628f;
+  color: var(--content-link-color);
 }
 
 .md-content a:not(.anchor):hover,
 .md-content a:not(.anchor):focus-visible {
-  color: #3f628f;
+  color: var(--content-link-color);
   text-decoration: underline;
   text-decoration-color: currentColor;
   text-decoration-thickness: 1.2px;

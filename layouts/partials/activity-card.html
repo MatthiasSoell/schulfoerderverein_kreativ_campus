@@ -1,0 +1,23 @@
+{{- $page := .page -}}
+{{- $eventEnd := 0 -}}
+{{- with $page.Params.eventEnd -}}
+  {{- $eventEnd = (time.AsTime .).Unix -}}
+{{- end -}}
+<article class="post-entry activity-card{{ if gt $eventEnd (now).Unix }} activity-upcoming{{ end }}"{{ with $eventEnd }} data-event-end="{{ . }}"{{ end }}>
+  {{- $coverHidden := ($page.Param "cover.hiddenInList") | default ($page.Param "cover.hidden") | default false }}
+  {{- partial "cover.html" (dict "cxt" $page "IsSingle" false "isHidden" $coverHidden) }}
+  <header class="entry-header">
+    {{- if .nested }}
+    <h3 class="entry-hint-parent">{{ $page.Title }}</h3>
+    {{- else }}
+    <h2 class="entry-hint-parent">{{ $page.Title }}</h2>
+    {{- end }}
+  </header>
+  {{- if not ($page.Param "hideSummary") }}
+  <div class="entry-content"><p>{{ $page.Summary | plainify | htmlUnescape }}</p></div>
+  {{- end }}
+  {{- if not ($page.Param "hideMeta") }}
+  <footer class="entry-footer">{{ partial "post_meta.html" $page }}</footer>
+  {{- end }}
+  <a class="entry-link" href="{{ $page.RelPermalink }}" aria-label="{{ $page.Title }}"></a>
+</article>

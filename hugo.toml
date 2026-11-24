@@ -10,6 +10,7 @@ path = "github.com/adityatelange/hugo-PaperMod"
 
 [params]
 defaultTheme = "auto"
+DateFormat = "02.01.2006"
 ShowReadingTime = false
 ShowShareButtons = false
 ShowPostNavLinks = false
@@ -27,19 +28,24 @@ pageRef = "/ueber_uns"
 weight = 2
 
 [[menu.main]]
+name = "Aktivitäten"
+pageRef = "/aktivitaeten"
+weight = 3
+
+[[menu.main]]
 name = "Mitglied werden"
 pageRef = "/mitglied_werden"
-weight = 3
+weight = 4
 
 [[menu.main]]
 name = "Spenden"
 pageRef = "/spenden"
-weight = 4
+weight = 5
 
 [[menu.main]]
 name = "Kontakt"
 pageRef = "/kontakt"
-weight = 5
+weight = 6
 
 [markup]
 	[markup.goldmark]

@@ -1,0 +1,26 @@
+{{- if and .IsPage (eq .Section "aktivitaeten") }}
+<p class="md-content activity-return">
+  <a id="activity-return-link" href="{{ .FirstSection.RelPermalink }}" data-home="{{ site.Home.RelPermalink }}">Zurück zu den Aktivitäten</a>
+</p>
+<script>
+  (() => {
+    if (!document.referrer) return;
+
+    const referrer = new URL(document.referrer);
+    if (referrer.origin !== window.location.origin) return;
+
+    const link = document.getElementById('activity-return-link');
+    const home = new URL(link.dataset.home, window.location.href);
+    const overviewPath = new URL(link.href).pathname;
+
+    if (referrer.pathname === home.pathname) {
+      home.hash = 'home-activities-title';
+      link.href = home.href;
+      link.textContent = 'Zurück zur Startseite';
+    } else if (referrer.pathname.startsWith(overviewPath) &&
+        /^page\/\d+\/?$/.test(referrer.pathname.slice(overviewPath.length))) {
+      link.href = referrer.href;
+    }
+  })();
+</script>
+{{- end }}

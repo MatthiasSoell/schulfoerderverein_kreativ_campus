@@ -1,0 +1,14 @@
+{{- if or .IsHome (and .IsSection (eq .Section "aktivitaeten")) }}
+<script>
+  // Refresh the styling on page load even when the site has not been rebuilt.
+  function updateActivityHighlights() {
+    const now = Date.now() / 1000;
+    document.querySelectorAll('[data-event-end]').forEach((card) => {
+      card.classList.toggle('activity-upcoming', Number(card.dataset.eventEnd) > now);
+    });
+  }
+
+  updateActivityHighlights();
+  window.addEventListener('pageshow', updateActivityHighlights);
+</script>
+{{- end }}
