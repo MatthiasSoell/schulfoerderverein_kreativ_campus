@@ -4,7 +4,7 @@ title: "Mitglied werden"
 
 Der Förderverein lebt vom Engagement seiner Mitglieder.
 
-Mit Ihrer Mitgliedschaft helfen Sie dabei, Projekte, Exkursionen, Veranstaltungen und zusätzliche Angebote für die Schülerinnen und Schüler des KreativCampus Evershagen zu ermöglichen.
+Mit Ihrer Mitgliedschaft helfen Sie dabei, Projekte, Exkursionen, Veranstaltungen und zusätzliche Angebote für die Kinder des KreativCampus Evershagen zu ermöglichen.
 
 Mitglied werden können alle Personen, Familien, Unternehmen und Institutionen, die die Arbeit des Vereins unterstützen möchten.
 
@@ -26,14 +26,14 @@ Mit Ihrer Mitgliedschaft erkennen Sie die <a href="../dokumente/Satzung_Foerderv
 
 ## Aktive Unterstützung
 
-Neben einer Mitgliedschaft freuen wir uns auch über aktive Unterstützung, beispielsweise bei schulischen Veranstaltungen und Projekten.
+Neben einer Mitgliedschaft freuen wir uns auch über aktive Unterstützung, beispielsweise bei KiTa- oder Schulveranstaltungen und Projekten.
 
 Hierzu gehören unter anderem:
 
 - Ostercafé
 - Sommerfest
 - Adventscafé
-- weitere Veranstaltungen des Schullebens
+- weitere Veranstaltungen des Campuslebens
 
 Wir freuen uns über jede Form der Unterstützung und über neue Ideen. Melden Sie sich gerne bei uns.
 

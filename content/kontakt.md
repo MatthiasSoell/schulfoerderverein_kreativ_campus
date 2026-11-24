@@ -20,6 +20,6 @@ Wir freuen uns über Ihre Nachricht und helfen gerne weiter!
 
 ## KreativCampus Evershagen
 
-Weitere Informationen zum Schulstandort finden Sie auf der Website des am <a href="https://ill-ev.de/schulstandorte/rostock/kreativcampus-evershagen/reformpaedagogik-trifft-architektur" target="_blank" rel="noopener noreferrer">KreativCampus Evershagen</a> in Rostock.
+Weitere Informationen zum Standort des Campus finden Sie auf der Website des am <a href="https://ill-ev.de/schulstandorte/rostock/kreativcampus-evershagen/reformpaedagogik-trifft-architektur" target="_blank" rel="noopener noreferrer">KreativCampus Evershagen</a> in Rostock.
 
 Vielen Dank für Ihr Interesse am Förderverein!

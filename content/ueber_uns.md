@@ -2,11 +2,11 @@
 title: "Über uns"
 ---
 
-Der Förderverein des KreativCampus Evershagen e.V. begleitet und unterstützt das **Schulleben** am KreativCampus Evershagen in Rostock.
+Der Förderverein des KreativCampus Evershagen e.V. begleitet und unterstützt das **Campusleben** am KreativCampus Evershagen in Rostock.
 
-Der Verein versteht sich als **Brücke** zwischen Schule, Unterstützer:innen, Förder:innen und Elternhäusern. **Ziel** ist es, dort zu helfen, wo zusätzliche Ideen, Engagement oder finanzielle Mittel dazu beitragen können, Bildungs- und Gemeinschaftsangebote für die Schüler:innen zu **erweitern**.
+Der Verein versteht sich als **Brücke** zwischen KiTa, Schule, Unterstützer:innen, Förder:innen und Elternhäusern. **Ziel** ist es, dort zu helfen, wo zusätzliche Ideen, Engagement oder finanzielle Mittel dazu beitragen können, Bildungs- und Gemeinschaftsangebote für die Kinder zu **erweitern**.
 
-Viele **Projekte**, **Anschaffungen** oder **Veranstaltungen** lassen sich durch die Unterstützung des Fördervereins unkompliziert ermöglichen oder ergänzen. Dazu gehören beispielsweise schulische Projekte, Lernangebote, Exkursionen, Gemeinschaftsveranstaltungen wie das Ostercafé, Sommerfeste, das Adventscafé oder besondere Anschaffungen.
+Viele **Projekte**, **Anschaffungen** oder **Veranstaltungen** lassen sich durch die Unterstützung des Fördervereins unkompliziert ermöglichen oder ergänzen. Dazu gehören beispielsweise campusbezogene Projekte, Lernangebote, Exkursionen, Gemeinschaftsveranstaltungen wie das Ostercafé, Sommerfeste, das Adventscafé oder besondere Anschaffungen.
 
 ## Vorstand
 
@@ -18,7 +18,7 @@ Ilka Gaide (1. Vorsitzende), Andrea Zarzinsky (2. Vorsitzende), Thomas Radloff (
 
 ## Wie wir arbeiten
 
-Der Verein arbeitet eng mit der Schulleitung, den Lehrkräften, den Eltern sowie weiteren Partner:innen zusammen. Über die Verwendung von Mitteln und die Unterstützung von Projekten entscheiden die Vereinsgremien im Rahmen der Satzung.
+Der Verein arbeitet eng mit der KiTa- und Schulleitung, den Erzieher:innen und Lehrkräften, den Eltern sowie weiteren Partner:innen zusammen. Über die Verwendung von Mitteln und die Unterstützung von Projekten entscheiden die Vereinsgremien im Rahmen der Satzung.
 
 ## Ehrenamtliches Engagement
 

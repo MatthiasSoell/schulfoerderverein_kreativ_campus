@@ -9,9 +9,9 @@ Der Förderverein des KreativCampus Evershagen e.V. unterstützt die Bildungs- u
 
 <p class="image-caption">Bild: Visualisierung des KreativCampus Evershagen auf Grundlage eines Drohnenfotos <br>(Bearbeitet mit ChatGPT) · Quelle: Drohnenfoto des Institut Lernen und Leben e.V. · <br>Lizenz: Nicht frei verfügbar.</p>
 
-Gemeinsam mit Eltern, Unterstützer:innen und Förder:innen möchten wir dazu beitragen, das Schulleben aktiv mitzugestalten und zusätzliche Projekte für die Schüler:innen zu ermöglichen.
+Gemeinsam mit Eltern, Unterstützer:innen und Förder:innen möchten wir dazu beitragen, das Campusleben aktiv mitzugestalten und zusätzliche Projekte für die Kinder zu ermöglichen.
 
-Unsere Arbeit lebt vom Engagement vieler Menschen. Ob durch aktive Unterstützung, eine Mitgliedschaft oder eine Spende – jede Hilfe trägt dazu bei, den Schulalltag unserer Kinder noch vielfältiger und lebendiger zu gestalten.
+Unsere Arbeit lebt vom Engagement vieler Menschen. Ob durch aktive Unterstützung, eine Mitgliedschaft oder eine Spende – jede Hilfe trägt dazu bei, den Alltag unserer Kinder noch vielfältiger und lebendiger zu gestalten.
 
 ## Vorstand
 
@@ -25,12 +25,12 @@ Unsere Vorstandsmitglieder Ilka Gaide (1. Vorsitzende), Andrea Zarzinsky (2. Vor
 
 ## Unsere Ziele
 
-- Unterstützung schulischer Projekte und Lernangebote
-- Förderung des gemeinschaftlichen Schullebens
+- Unterstützung campusbezogener Projekte und Lernangebote
+- Förderung des gemeinschaftlichen Campuslebens
 - Unterstützung von Exkursionen und Veranstaltungen
-- Stärkung der Zusammenarbeit von Schule, Elternhäusern und Umfeld
+- Stärkung der Zusammenarbeit von KiTa, Schule, Elternhäusern und Umfeld
 - Gewinnung von Unterstützer:innen und Sponsor:innen
-- Unterstützung einzelner Schüler:innen in besonderen Situationen
+- Unterstützung einzelner Kinder in besonderen Situationen
 
 ## Aktiv werden
 

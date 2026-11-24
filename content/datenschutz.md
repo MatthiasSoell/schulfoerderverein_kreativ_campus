@@ -10,9 +10,9 @@ E-Mail: [foerderverein@kreativ-campus.de](mailto:foerderverein@kreativ-campus.de
 
 Der Förderverein ist erreichbar über:
 
-Freie Grundschule Kinderkunstakademie am Wasserturm e.V.  
-Blücherstraße 42  
-18055 Rostock  
+KreativCampus Evershagen  
+Hans-Fallada-Str. 51-52  
+18069 Rostock
 
 ## Allgemeine Hinweise
 
