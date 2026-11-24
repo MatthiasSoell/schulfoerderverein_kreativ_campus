@@ -1,9 +1,9 @@
 ---
-title: "Schulförderverein des KreativCampus Evershagen e.V."
+title: "Förderverein des KreativCampus Evershagen e.V."
 displayTitle: "Gemeinsam Bildung, Kreativität und Gemeinschaft fördern."
 ---
 
-Der Schulförderverein des KreativCampus Evershagen e.V. unterstützt die Bildungs- und Erziehungsarbeit am <a href="https://ill-ev.de/schulstandorte/rostock/kreativcampus-evershagen/reformpaedagogik-trifft-architektur" target="_blank" rel="noopener noreferrer">KreativCampus Evershagen</a> in Rostock. 
+Der Förderverein des KreativCampus Evershagen e.V. unterstützt die Bildungs- und Erziehungsarbeit am <a href="https://ill-ev.de/schulstandorte/rostock/kreativcampus-evershagen/reformpaedagogik-trifft-architektur" target="_blank" rel="noopener noreferrer">KreativCampus Evershagen</a> in Rostock. 
 
 ![KreativCampus](images/kreativcampus_ki.jpg)
 
@@ -34,14 +34,14 @@ Unsere Vorstandsmitglieder Ilka Gaide (1. Vorsitzende), Andrea Zarzinsky (2. Vor
 
 ## Aktiv werden
 
-Der Schulförderverein freut sich über jede Unterstützung!
+Der Förderverein freut sich über jede Unterstützung!
 
 Sie können sich aktiv engagieren – melden Sie sich bei uns, dem Verein beitreten oder eine Spende überweisen. 
 
 Jede Form der Unterstützung trägt dazu bei, die Bildungs- und Erziehungsarbeit am KreativCampus Evershagen zu bereichern.
 
 <div class="support-actions">
-  <a class="support-button support-button-engage" href="mailto:foerderverein@kreativ-campus.de?subject=Engagement%20im%20Schulf%C3%B6rderverein">
+  <a class="support-button support-button-engage" href="mailto:foerderverein@kreativ-campus.de?subject=Engagement%20im%20F%C3%B6rderverein">
     Engagieren
   </a>
   <a class="support-button support-button-join" href="mitglied_werden/">

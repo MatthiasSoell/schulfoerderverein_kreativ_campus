@@ -4,11 +4,11 @@ title: "Impressum"
 
 ## Angaben gemäß § 5 DDG
 
-**Schulförderverein des KreativCampus Evershagen e.V.**
+**Förderverein des KreativCampus Evershagen e.V.**
 
 Sitz des Vereins:
 
-Der Schulförderverein ist erreichbar über:
+Der Förderverein ist erreichbar über:
 
 KreativCampus Evershagen  
 Hans-Fallada-Str. 51-52  
@@ -24,7 +24,7 @@ Der Verein wird gemäß § 26 BGB durch die 1. Vorsitzende Ilka Gaide oder die 2
 
 Dem Vorstand gehören außerdem Thomas Radloff (Beisitzer) und Benita Krüger (Kassenwartin) an.
 
-**Inhaltlich verantwortlich für diese Website** ist der Vorstand des Schulfördervereins des KreativCampus Evershagen e. V.
+**Inhaltlich verantwortlich für diese Website** ist der Vorstand des Fördervereins des KreativCampus Evershagen e. V.
 
 ---
 

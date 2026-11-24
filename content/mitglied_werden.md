@@ -2,7 +2,7 @@
 title: "Mitglied werden"
 ---
 
-Der Schulförderverein lebt vom Engagement seiner Mitglieder.
+Der Förderverein lebt vom Engagement seiner Mitglieder.
 
 Mit Ihrer Mitgliedschaft helfen Sie dabei, Projekte, Exkursionen, Veranstaltungen und zusätzliche Angebote für die Schülerinnen und Schüler des KreativCampus Evershagen zu ermöglichen.
 
@@ -22,7 +22,7 @@ Selbstverständlich sind auch höhere freiwillige Beiträge willkommen.
 
 ## Satzung
 
-Mit Ihrer Mitgliedschaft erkennen Sie die <a href="../dokumente/Satzung_Foerderverein_KreativCampus.pdf" target="_blank" rel="noopener noreferrer">Satzung (PDF)</a> des Schulfördervereins an. Darin sind die Ziele, Aufgaben und organisatorischen Grundlagen des Vereins festgelegt.
+Mit Ihrer Mitgliedschaft erkennen Sie die <a href="../dokumente/Satzung_Foerderverein_KreativCampus.pdf" target="_blank" rel="noopener noreferrer">Satzung (PDF)</a> des Fördervereins an. Darin sind die Ziele, Aufgaben und organisatorischen Grundlagen des Vereins festgelegt.
 
 ## Aktive Unterstützung
 
@@ -38,7 +38,7 @@ Hierzu gehören unter anderem:
 Wir freuen uns über jede Form der Unterstützung und über neue Ideen. Melden Sie sich gerne bei uns.
 
 <div class="support-actions">
-  <a class="support-button support-button-engage" href="mailto:foerderverein@kreativ-campus.de?subject=Engagement%20im%20Schulf%C3%B6rderverein">
+  <a class="support-button support-button-engage" href="mailto:foerderverein@kreativ-campus.de?subject=Engagement%20im%20F%C3%B6rderverein">
     Aktiv unterstützen
   </a>
 </div>

@@ -11,7 +11,7 @@ Ob auf dem **Sommerfest**, beim **Adventscafé**, bei **Schulprojekten** oder im
 <center>Scannen Sie den QR-Code mit Ihrer <b>Banking-App</b><br>und wählen Sie den Betrag, den Sie spenden möchten.</center>
 
 <div class="donation-qr-box">
-  <img src="../images/girocode.png" alt="GiroCode für eine Spende an den Schulförderverein">
+  <img src="../images/girocode.png" alt="GiroCode für eine Spende an den Förderverein">
 </div>
 
 ## Bankverbindung

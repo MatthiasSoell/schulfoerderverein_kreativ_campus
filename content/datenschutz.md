@@ -4,11 +4,11 @@ title: "Datenschutz"
 
 ## Verantwortliche Stelle
 
-**Schulförderverein des KreativCampus Evershagen e.V.** 
+**Förderverein des KreativCampus Evershagen e.V.** 
 
 E-Mail: [foerderverein@kreativ-campus.de](mailto:foerderverein@kreativ-campus.de)
 
-Der Schulförderverein ist erreichbar über:
+Der Förderverein ist erreichbar über:
 
 Freie Grundschule Kinderkunstakademie am Wasserturm e.V.  
 Blücherstraße 42  

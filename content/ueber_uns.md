@@ -2,7 +2,7 @@
 title: "Über uns"
 ---
 
-Der Schulförderverein des KreativCampus Evershagen e.V. begleitet und unterstützt das **Schulleben** am KreativCampus Evershagen in Rostock.
+Der Förderverein des KreativCampus Evershagen e.V. begleitet und unterstützt das **Schulleben** am KreativCampus Evershagen in Rostock.
 
 Der Verein versteht sich als **Brücke** zwischen Schule, Unterstützer:innen, Förder:innen und Elternhäusern. **Ziel** ist es, dort zu helfen, wo zusätzliche Ideen, Engagement oder finanzielle Mittel dazu beitragen können, Bildungs- und Gemeinschaftsangebote für die Schüler:innen zu **erweitern**.
 
@@ -26,8 +26,8 @@ Alle Vorstandsmitglieder engagieren sich **ehrenamtlich**. Der Verein lebt von M
 
 ## Gemeinnützigkeit
 
-Der Schulförderverein verfolgt ausschließlich **gemeinnützige Zwecke**.
+Der Förderverein verfolgt ausschließlich **gemeinnützige Zwecke**.
 
 ## Satzung
 
-Die <a href="../dokumente/Satzung_Foerderverein_KreativCampus.pdf" target="_blank" rel="noopener noreferrer">Satzung (PDF)</a> beschreibt die Ziele, Aufgaben und organisatorischen Grundlagen des Schulfördervereins ausführlich.
+Die <a href="../dokumente/Satzung_Foerderverein_KreativCampus.pdf" target="_blank" rel="noopener noreferrer">Satzung (PDF)</a> beschreibt die Ziele, Aufgaben und organisatorischen Grundlagen des Fördervereins ausführlich.

@@ -1,6 +1,6 @@
 baseURL = "https://matthiassoell.github.io/schulfoerderverein_kreativ_campus/"
 languageCode = "de-DE"
-title = "Schulförderverein des KreativCampus Evershagen e.V."
+title = "Förderverein des KreativCampus Evershagen e.V."
 
 theme = ["github.com/adityatelange/hugo-PaperMod"]
 
